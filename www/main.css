@@ -1,0 +1,214 @@
+.suraName {text-align: center; font-size: 20px; padding: 10px 0px;
+	border: 1px solid #D4DDCC; background-color: #E4EEDC; margin-top: 7px;}
+.aya {font-family: traditional arabic; direction: rtl; font-size: 28px;
+	padding: 10px; background-color: #EEF8E5; border: 1px solid #D4DDCC; border-top: 0px;}
+.aya:hover {background-color: #F7FCE3;}
+.ayaNum {color: green; font-size: smaller;}
+.sign {font-family: times new roman; font-size: 0.9em; color: #FB7600;}
+.footer {text-align: center; margin: 20px 0px; color: #222; font-family: Arial;
+	background-color: #f4f4ff; border: 1px solid #ccd; padding: 3px; font: 12px Verdana;}
+body {
+direction: rtl;
+	   font-family: Tahoma;
+}
+#wrap {
+   margin: 10px auto;        
+//background: #666;
+   background: #E4EEDC;
+   padding: 10px;
+   width: 200px;
+   float: left;
+}
+#header {
+   background-color: #666;
+   color: #FFF;
+}
+#logo {
+   font-size: 30px;  
+   line-height: 40px;    
+   padding: 5px;
+}
+#navWrap {
+   height: 30px;
+}
+#nav {
+   padding: 5px;
+//   background: #999;    
+}
+#nav ul {
+   margin: 0;
+   padding: 0;    
+}
+#nav li {
+   float: left;
+   padding: 3px 8px;
+//   background-color: #FFF;
+   margin: 0 10px 0 0;
+//   color: #F00;
+   list-style-type: none;
+}
+#nav li a {
+//   color: #F00;  
+   text-decoration: none;    
+}
+#nav li a:hover {
+   text-decoration: underline;   
+}
+br.clearLeft {
+   clear: left;        
+}
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+.div-0 { background-color: AliceBlue; }
+.div-1 { background-color: AntiqueWhite; }
+.div-2 { background-color: Aqua; }
+.div-3 { background-color: Aquamarine; }
+.div-4 { background-color: Azure; }
+.div-5 { background-color: Beige; }
+.div-6 { background-color: Bisque; }
+.div-7 { background-color: YellowGreen; }
+.div-8 { background-color: BlanchedAlmond; }
+.div-9 { background-color: Blue; }
+.div-10 { background-color: BlueViolet; }
+.div-11 { background-color: Brown; }
+.div-12 { background-color: BurlyWood; }
+.div-13 { background-color: CadetBlue; }
+.div-14 { background-color: Chartreuse; }
+.div-15 { background-color: Chocolate; }
+.div-16 { background-color: Coral; }
+.div-17 { background-color: CornflowerBlue; }
+.div-18 { background-color: Cornsilk; }
+.div-19 { background-color: Crimson; }
+.div-20 { background-color: Cyan; }
+.div-21 { background-color: DarkBlue; }
+.div-22 { background-color: DarkCyan; }
+.div-23 { background-color: DarkGoldenRod; }
+.div-24 { background-color: DarkGray; }
+.div-25 { background-color: DarkGrey; }
+.div-26 { background-color: DarkGreen; }
+.div-27 { background-color: DarkKhaki; }
+.div-28 { background-color: DarkMagenta; }
+.div-29 { background-color: DarkOliveGreen; }
+.div-30 { background-color: Darkorange; }
+.div-31 { background-color: DarkOrchid; }
+.div-32 { background-color: DarkRed; }
+.div-33 { background-color: DarkSalmon; }
+.div-34 { background-color: DarkSeaGreen; }
+.div-35 { background-color: DarkSlateBlue; }
+.div-36 { background-color: DarkSlateGray; }
+.div-37 { background-color: DarkSlateGrey; }
+.div-38 { background-color: DarkTurquoise; }
+.div-39 { background-color: DarkViolet; }
+.div-40 { background-color: DeepPink; }
+.div-41 { background-color: DeepSkyBlue; }
+.div-42 { background-color: DimGray; }
+.div-43 { background-color: DimGrey; }
+.div-44 { background-color: DodgerBlue; }
+.div-45 { background-color: FireBrick; }
+.div-46 { background-color: FloralWhite; }
+.div-47 { background-color: ForestGreen; }
+.div-48 { background-color: Fuchsia; }
+.div-49 { background-color: Gainsboro; }
+.div-50 { background-color: GhostWhite; }
+.div-51 { background-color: Gold; }
+.div-52 { background-color: GoldenRod; }
+.div-53 { background-color: Gray; }
+.div-54 { background-color: Grey; }
+.div-55 { background-color: Green; }
+.div-56 { background-color: GreenYellow; }
+.div-57 { background-color: HoneyDew; }
+.div-58 { background-color: HotPink; }
+.div-59 { background-color: IndianRed; }
+.div-60 { background-color: Indigo; }
+.div-61 { background-color: Ivory; }
+.div-62 { background-color: Khaki; }
+.div-63 { background-color: Lavender; }
+.div-64 { background-color: LavenderBlush; }
+.div-65 { background-color: LawnGreen; }
+.div-66 { background-color: LemonChiffon; }
+.div-67 { background-color: LightBlue; }
+.div-68 { background-color: LightCoral; }
+.div-69 { background-color: LightCyan; }
+.div-70 { background-color: LightGoldenRodYellow; }
+.div-71 { background-color: LightGray; }
+.div-72 { background-color: LightGrey; }
+.div-73 { background-color: LightGreen; }
+.div-74 { background-color: LightPink; }
+.div-75 { background-color: LightSalmon; }
+.div-76 { background-color: LightSeaGreen; }
+.div-77 { background-color: LightSkyBlue; }
+.div-78 { background-color: LightSlateGray; }
+.div-79 { background-color: LightSlateGrey; }
+.div-80 { background-color: LightSteelBlue; }
+.div-81 { background-color: LightYellow; }
+.div-82 { background-color: Lime; }
+.div-83 { background-color: LimeGreen; }
+.div-84 { background-color: Linen; }
+.div-85 { background-color: Magenta; }
+.div-86 { background-color: Maroon; }
+.div-87 { background-color: MediumAquaMarine; }
+.div-88 { background-color: MediumBlue; }
+.div-89 { background-color: MediumOrchid; }
+.div-90 { background-color: MediumPurple; }
+.div-91 { background-color: MediumSeaGreen; }
+.div-92 { background-color: MediumSlateBlue; }
+.div-93 { background-color: MediumSpringGreen; }
+.div-94 { background-color: MediumTurquoise; }
+.div-95 { background-color: MediumVioletRed; }
+.div-96 { background-color: MidnightBlue; }
+.div-97 { background-color: MintCream; }
+.div-98 { background-color: MistyRose; }
+.div-99 { background-color: Moccasin; }
+.div-100 { background-color: NavajoWhite; }
+.div-101 { background-color: Navy; }
+.div-102 { background-color: OldLace; }
+.div-103 { background-color: Olive; }
+.div-104 { background-color: OliveDrab; }
+.div-105 { background-color: Orange; }
+.div-106 { background-color: OrangeRed; }
+.div-107 { background-color: Orchid; }
+.div-108 { background-color: PaleGoldenRod; }
+.div-109 { background-color: PaleGreen; }
+.div-110 { background-color: PaleTurquoise; }
+.div-111 { background-color: PaleVioletRed; }
+.div-112 { background-color: PapayaWhip; }
+.div-113 { background-color: PeachPuff; }
+.div-114 { background-color: Peru; }
+.div-115 { background-color: Pink; }
+.div-116 { background-color: Plum; }
+.div-117 { background-color: PowderBlue; }
+.div-118 { background-color: Purple; }
+.div-119 { background-color: Red; }
+.div-120 { background-color: RosyBrown; }
+.div-121 { background-color: RoyalBlue; }
+.div-122 { background-color: SaddleBrown; }
+.div-123 { background-color: Salmon; }
+.div-124 { background-color: SandyBrown; }
+.div-125 { background-color: SeaGreen; }
+.div-126 { background-color: SeaShell; }
+.div-127 { background-color: Sienna; }
+.div-128 { background-color: Silver; }
+.div-129 { background-color: SkyBlue; }
+.div-130 { background-color: SlateBlue; }
+.div-131 { background-color: SlateGray; }
+.div-132 { background-color: SlateGrey; }
+.div-133 { background-color: Snow; }
+.div-134 { background-color: SpringGreen; }
+.div-135 { background-color: SteelBlue; }
+.div-136 { background-color: Tan; }
+.div-137 { background-color: Teal; }
+.div-138 { background-color: Thistle; }
+.div-139 { background-color: Tomato; }
+.div-140 { background-color: Turquoise; }
+.div-141 { background-color: Violet; }
+.div-142 { background-color: Wheat; }
+.div-143 { background-color: White; }
+.div-144 { background-color: WhiteSmoke; }
+.div-145 { background-color: Yellow; }
+.div-146 { background-color: YellowGreen; }
+
